@@ -32,10 +32,3 @@ cacheSolve <- function(x, ...) {
   x$setInverse(m)
   m
 }
-
-
-## Write a short comment describing this function
-
-cacheSolve <- function(x, ...) {
-        ## Return a matrix that is the inverse of 'x'
-}
